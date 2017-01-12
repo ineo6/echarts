@@ -166,6 +166,5 @@ node_modules
 
 map/tool
 theme/thumb
-/lib
 todo
 **/*.log
